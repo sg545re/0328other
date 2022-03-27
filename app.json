@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "V3",
+  "description": "V3",
   "keywords": [
-    "vmess or vles"
+    "V3"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/sg545re/0328other",
+  "repository": "https://github.com/sg545re/0328other",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
